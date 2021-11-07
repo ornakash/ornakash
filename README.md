@@ -9,12 +9,11 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png" width="30px" height="30px"/> <img src="https://rt-ed.com/wp-content/uploads/2021/05/nodejs-logo-1.png" width="30px" height="30px"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" width="30px" height="30px"/>
 
----
 ## Please enter https://lightup.co.il to see my projects
 <img src="https://i1.wp.com/lightup.co.il/wp-content/uploads/2021/01/logo-4.png?w=400&ssl=1" width="150px"/>
 
 ## Feel free to contact me anytime:
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15px"/>E-mail: admin@lightup.co.il 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15px"/>&nbsp; E-mail: admin@lightup.co.il 
 </br>
-<img src="https://cdn-icons-png.flaticon.com/512/3014/3014736.png" width="15px"/>Tel: +972505975550
+<img src="https://cdn-icons-png.flaticon.com/512/3014/3014736.png" width="15px"/>&nbsp; Tel: +972505975550
