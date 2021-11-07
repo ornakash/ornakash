@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318526C&size=25&center=false&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 ---
+
 ## Some of the technologies I work with:
 </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="70px" height="35px"/>
@@ -10,11 +11,11 @@
 
 ---
 ## Please enter https://lightup.co.il to see my projects
-<img src="https://i1.wp.com/lightup.co.il/wp-content/uploads/2021/01/logo-4.png?w=400&ssl=1"/ width="150px">
+<img src="https://i1.wp.com/lightup.co.il/wp-content/uploads/2021/01/logo-4.png?w=400&ssl=1" width="150px"/>
 
 ---
-
-### Feel free to contact me anytime:
+## Feel free to contact me anytime:
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15px"/>E-mail: admin@lightup.co.il 
+</br>
 <img src="https://cdn-icons-png.flaticon.com/512/3014/3014736.png" width="15px"/>Tel: +972505975550
