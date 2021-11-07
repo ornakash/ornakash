@@ -13,7 +13,6 @@
 ## Please enter https://lightup.co.il to see my projects
 <img src="https://i1.wp.com/lightup.co.il/wp-content/uploads/2021/01/logo-4.png?w=400&ssl=1" width="150px"/>
 
----
 ## Feel free to contact me anytime:
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15px"/>E-mail: admin@lightup.co.il 
