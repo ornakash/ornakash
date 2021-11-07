@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318526C&size=25&center=false&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
-<hr>
+
 Some of the technologies I work with:
 </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="70px" height="35px"/>
