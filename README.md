@@ -4,4 +4,4 @@
 
 Technologies:
 </br>
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048877.png" width="50px" height="50px"/> <img src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png" width="50px" height="50px"/>
+<img src="https://www.vhv.rs/dpng/d/200-2007563_react-native-logo-png-transparent-png.png" width="25px" height="25px"/> <img src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png" width="25px" height="25px"/>
