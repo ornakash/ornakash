@@ -1,4 +1,4 @@
-Hi 👋, I'm Or Nakash
+Hi 👋, I'm Or Nakash<br/>
 A passionate Full Stack developer from Israel
 ---
 #### Some of the technologies I work with:
