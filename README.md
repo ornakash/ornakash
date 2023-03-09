@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318526C&size=25&center=false&lines=Welcome+to+my+github+profile!   )](https://git.io/typing-svg)
+Hi 👋, I'm Or Nakash
 A passionate Full Stack developer from Israel
 ---
 #### Some of the technologies I work with:
