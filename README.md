@@ -6,4 +6,4 @@ A passionate Full Stack developer from Israel
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ornakash&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ornakash)](https://git.io/streak-stats)
