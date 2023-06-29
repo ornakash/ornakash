@@ -7,5 +7,3 @@ A passionate Full Stack developer from Israel
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ornakash&theme=dark)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ornakash&hide_progress=true)
