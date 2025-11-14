@@ -69,9 +69,6 @@ I'm a passionate **Full Stack Developer** from **Israel** 🇮🇱, specializing
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ornakash&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ornakash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornakash&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170"/>
-
 </div>
 
 ---
