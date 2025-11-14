@@ -30,10 +30,11 @@ I'm a passionate **Full Stack Developer** from **Israel** 🇮🇱, specializing
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react&logoColor=white" alt="TanStack Start"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -47,10 +48,11 @@ I'm a passionate **Full Stack Developer** from **Israel** 🇮🇱, specializing
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC"/>
 </p>
 
-### Database
+### Database & ORM
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
 ### Tools & DevOps
@@ -69,6 +71,9 @@ I'm a passionate **Full Stack Developer** from **Israel** 🇮🇱, specializing
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ornakash&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ornakash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornakash&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170"/>
+
 </div>
 
 ---
@@ -86,7 +91,7 @@ Coming soon! Check out my repositories below 👇
 I'm always interested in hearing about new projects and opportunities!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ornakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%90%8E%F0%9D%90%AB-%F0%9D%90%8D%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A1-4a2073177/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ornakash)
 
 </div>
