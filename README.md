@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;MongoDB+%26+TypeScript+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ornakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ornakash](https://www.linkedin.com/in/%F0%9D%90%8E%F0%9D%90%AB-%F0%9D%90%8D%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A1-4a2073177/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ornakash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
