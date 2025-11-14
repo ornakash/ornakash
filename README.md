@@ -51,6 +51,7 @@ I'm a passionate **Full Stack Developer** from **Israel** 🇮🇱, specializing
 ### Database & ORM
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
@@ -71,18 +72,10 @@ I'm a passionate **Full Stack Developer** from **Israel** 🇮🇱, specializing
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ornakash&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ornakash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornakash&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170"/>
 
 </div>
 
----
 
-## 🎯 Featured Projects
-
-Coming soon! Check out my repositories below 👇
-
----
 
 ## 📫 Let's Connect
 
